@@ -1,6 +1,6 @@
-# Concise AI - AI Article Summarizer
+# QuickBrief - AI Article Summarizer
 
-Concise AI is an AI-powered article summarizer that provides a quick and easy way to summarize long articles or pieces of text into concise, bite-sized summaries. This project is built as a web application using React and Vite.js, with a FastAPI backend API and utilizes RapidAPI for article summarization.
+QuickBrief is an AI-powered article summarizer that provides a quick and easy way to summarize long articles or pieces of text into concise, bite-sized summaries. This project is built as a web application using React and Vite.js, with a FastAPI backend API and utilizes RapidAPI for article summarization.
 
 Follow these steps to set up and run the AI Article Summarizer project on your local machine.
 
