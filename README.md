@@ -18,7 +18,7 @@ Ensure you have the following installed on your machine:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/LaxmiNarayana31/ConciseAI.git
+   git clone https://github.com/LaxmiNarayana31/QuickBrief.git
    ```
 
 2. **Install Frontend Dependencies**
